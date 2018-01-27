@@ -1,0 +1,27 @@
+{
+  "name": "meanstack1",
+  "version": "1.0.0",
+  "description": "MeanStack1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javaxd123/meanstack1.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack"
+  ],
+  "author": "Marcin Warzybok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javaxd123/meanstack1/issues"
+  },
+  "homepage": "https://github.com/javaxd123/meanstack1#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  }
+}
